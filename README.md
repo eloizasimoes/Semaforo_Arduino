@@ -7,6 +7,10 @@ Projeto acadêmico desenvolvido em grupo na disciplina de TI do curso de Ciênci
 
 O objetivo é simular um semáforo urbano com controle de travessia de pedestres, detecção de luminosidade e uma cancela automática para veículos.
 
+## Circuito no Tinkercad
+
+![Circuito do semáforo montado no Tinkercad](semaforo.png)
+
 ## Funcionalidades
 
 - Controle cíclico dos sinais de veículos.
